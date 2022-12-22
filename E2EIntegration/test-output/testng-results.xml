@@ -1,13 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-12-20T23:40:48 IST" name="Default suite" finished-at="2022-12-20T23:41:08 IST" duration-ms="19945">
+  <suite started-at="2022-12-22T17:38:20 IST" name="Default suite" finished-at="2022-12-22T17:39:09 IST" duration-ms="49026">
     <groups>
     </groups>
-    <test started-at="2022-12-20T23:40:48 IST" name="Default test" finished-at="2022-12-20T23:41:08 IST" duration-ms="19945">
+    <test started-at="2022-12-22T17:38:20 IST" name="Default test" finished-at="2022-12-22T17:39:09 IST" duration-ms="49026">
+      <class name="testcases.TC005">
+        <test-method signature="testcase1()[pri:0, instance:testcases.TC005@1ea9f6af]" started-at="2022-12-22T17:38:21 IST" name="testcase1" finished-at="2022-12-22T17:38:39 IST" duration-ms="18454" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+      </class> <!-- testcases.TC005 -->
+      <class name="testcases.TC004">
+        <test-method signature="testcase1()[pri:0, instance:testcases.TC004@6eda5c9]" started-at="2022-12-22T17:38:39 IST" name="testcase1" finished-at="2022-12-22T17:38:47 IST" duration-ms="8006" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+      </class> <!-- testcases.TC004 -->
+      <class name="testcases.TC003">
+        <test-method signature="testcase1()[pri:0, instance:testcases.TC003@55b7a4e0]" started-at="2022-12-22T17:38:47 IST" name="testcase1" finished-at="2022-12-22T17:38:55 IST" duration-ms="8048" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+      </class> <!-- testcases.TC003 -->
+      <class name="testcases.TC002">
+        <test-method signature="testcase1()[pri:0, instance:testcases.TC002@5f058f00]" started-at="2022-12-22T17:38:55 IST" name="testcase1" finished-at="2022-12-22T17:39:02 IST" duration-ms="7367" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+      </class> <!-- testcases.TC002 -->
       <class name="testcases.TC001">
-        <test-method signature="testcase1()[pri:0, instance:testcases.TC001@2145b572]" started-at="2022-12-20T23:40:48 IST" name="testcase1" finished-at="2022-12-20T23:41:08 IST" duration-ms="19854" status="PASS">
+        <test-method signature="testcase1()[pri:0, instance:testcases.TC001@192d43ce]" started-at="2022-12-22T17:39:02 IST" name="testcase1" finished-at="2022-12-22T17:39:09 IST" duration-ms="6940" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testcase1 -->

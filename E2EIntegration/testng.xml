@@ -8,6 +8,7 @@
   		<class name="testcases.TC003"/>
   		<class name="testcases.TC004"/>
   		<class name="testcases.TC005"/>
+  		<class name="testcases.TC006"/>
   	</classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
